@@ -1,0 +1,19 @@
+﻿body {
+	font-family: sans-serif;
+	color: white;
+	text-align: left;
+	background-color: #202225;
+}
+a:link {
+  color: pink;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightgrey;
+}
